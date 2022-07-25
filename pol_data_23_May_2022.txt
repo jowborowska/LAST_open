@@ -1,0 +1,237 @@
+Source=HD191195	Exposure[s]=5.0	Set=1	Position=r15	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.002528.260_clear_303+53_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.002528.317_clear_303+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.002528.398_clear_303+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.002528.569_clear_303+53_001_001_001_sci_raw_Image_1.fits
+Source=HD191195	Exposure[s]=5.0	Set=1	Position=r15	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.002707.622_clear_304+52_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.002707.720_clear_304+52_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.002707.828_clear_304+52_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.002707.926_clear_304+52_001_001_001_sci_raw_Image_1.fits
+Source=HD191195	Exposure[s]=5.0	Set=1	Position=r15	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.002854.202_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.002854.386_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.002854.405_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.002854.477_clear_300+53_001_001_001_sci_raw_Image_1.fits
+Source=HD191195	Exposure[s]=5.0	Set=1	Position=r15	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.003041.513_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.003041.624_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.003041.658_clear_300+53_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.003041.710_clear_300+53_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.003247.598_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.003247.691_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.003247.776_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.003247.850_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.003357.115_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.003357.277_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.003357.456_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.003357.614_clear_323+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=3
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r0	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004208.822_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004208.841_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004208.890_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004209.026_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r0	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004342.127_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004342.251_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004342.254_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004342.376_clear_323+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r0	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004443.353_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004443.477_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004443.619_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004443.649_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r0	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004545.673_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004545.786_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004545.938_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004546.042_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004647.816_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004647.968_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004648.138_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004648.239_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004822.671_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004822.685_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004822.824_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004822.864_clear_323+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.004924.741_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.004924.904_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.004924.920_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.004925.133_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r1	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005029.089_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005029.229_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005029.348_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005029.413_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r2	Camera=1
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r2	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005303.047_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005303.239_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005303.322_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005303.451_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r2	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005412.966_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005413.071_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005413.178_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005413.233_clear_323+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r2	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005514.531_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005514.672_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005514.649_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005514.809_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r2	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005644.814_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005644.974_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005645.007_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005645.187_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r3	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005746.714_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005746.724_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005746.794_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005746.991_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r3	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005856.139_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005856.167_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005856.248_clear_323+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005856.399_clear_323+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r3	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.005958.870_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.005959.015_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.005959.085_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.005959.277_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r3	Camera=4
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r3	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010241.251_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010241.426_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010241.408_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010241.454_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r4	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010343.309_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010343.445_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010343.519_clear_322+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010343.590_clear_322+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r4	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010451.693_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010451.780_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010451.855_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010452.037_clear_323+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r4	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010553.533_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010553.538_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010553.605_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010553.741_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r4	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010726.766_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010726.929_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010727.045_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010727.211_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r5	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.010855.205_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.010855.402_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.010855.510_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.010855.655_clear_322+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r5	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011004.988_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011005.084_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011005.155_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011005.266_clear_323+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r5	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011106.054_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011106.175_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011106.280_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011106.376_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r5	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011238.118_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011238.261_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011238.254_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011238.414_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=1
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=1
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011658.591_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011658.772_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011658.822_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011658.922_clear_322+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011809.873_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011809.998_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011810.142_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011810.306_clear_323+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.011911.816_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.011911.898_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.011912.074_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.011912.248_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r6	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012042.528_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012042.671_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012042.688_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012042.766_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r7	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012211.567_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012211.594_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012211.735_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012211.838_clear_322+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r7	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012324.504_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012324.724_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012324.763_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012324.904_clear_323+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r7	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012426.987_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012427.028_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012427.123_clear_322+58_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012427.315_clear_322+58_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r7	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012601.756_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012601.893_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012602.033_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012602.071_clear_322+57_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r8	Camera=1
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r8	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.012901.894_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.012901.900_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.012901.969_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.012902.184_clear_322+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r8	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013018.596_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013018.791_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013018.959_clear_323+59_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013019.014_clear_323+59_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r8	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013125.795_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013125.949_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013126.067_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013126.101_clear_322+57_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r8	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013259.354_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013259.459_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013259.577_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013259.644_clear_322+57_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r9	Camera=1
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013427.224_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013427.291_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013427.366_clear_322+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013427.419_clear_322+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r9	Camera=2
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013554.000_clear_323+60_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013554.220_clear_323+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013554.293_clear_323+60_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013554.495_clear_323+60_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r9	Camera=3
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013709.034_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013709.217_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013709.257_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013709.472_clear_322+57_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r9	Camera=4
+/last01e/data1/archive/LAST.01.01.01/new/LAST.01.01.01_20220523.013857.627_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01e/data2/archive/LAST.01.01.02/new/LAST.01.01.02_20220523.013857.754_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data1/archive/LAST.01.01.03/new/LAST.01.01.03_20220523.013857.759_clear_322+57_001_001_001_sci_raw_Image_1.fits
+/last01w/data2/archive/LAST.01.01.04/new/LAST.01.01.04_20220523.013857.932_clear_322+57_001_001_001_sci_raw_Image_1.fits
+Source=HD204827	Exposure[s]=5.0	Set=1	Position=r10	Camera=1
